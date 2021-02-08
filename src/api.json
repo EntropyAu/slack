@@ -404,6 +404,11 @@
     "client_secret",
     "code"
   ],
+  "oauth.v2.access": [
+    "client_id",
+    "client_secret",
+    "code"
+  ],
   "oauth.token": [
     "client_id",
     "client_secret",
